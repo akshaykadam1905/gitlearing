@@ -1,0 +1,27 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N801" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Akproject.Akproject.views.year" />
+          <option value="mysql.connector" />
+          <option value="CLASS.Pro.banking_solutions.banking_solutions.app_services.bank_services.banking_solutions" />
+          <option value="CLASS.Pro.college_app.banking_solutions" />
+          <option value="banking_solutions.banking_solutions.app_services.bank_services.app_entities" />
+          <option value="college_app.college_app.entities.prof_info.entities" />
+          <option value="CLASS.Pro.banking_solutions.banking_solutions.app_services.start_app.banking_solutions" />
+          <option value="CLASS.Advance_concept.python_advanced_topics.itertools_demos.itertools_demos.sample.itertools_demos" />
+          <option value="CLASS.Advance_concept.file_handling_persist_ops.file_handling_persist_ops.empserviceimpl.file_handling_persist_ops" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
